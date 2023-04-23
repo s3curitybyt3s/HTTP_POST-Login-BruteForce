@@ -3,7 +3,7 @@ HTTP_POST Login BruteForce
 
 **Installation**
 
-git clone https://github.com/S12cybersecurity/HTTP_POST-Login-BruteForce
+git clone https://github.com/s3curitybyt3s/HTTP_POST-Login-BruteForce
 
 pip3 install requests
 
